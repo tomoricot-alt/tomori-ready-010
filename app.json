@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "TOMORI READY",
+    "slug": "tomori-ready-010",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android", "web"],
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "TOMORI READY",
+      "shortName": "READY",
+      "backgroundColor": "#FBF8EE",
+      "themeColor": "#3E9B55",
+      "lang": "ja"
+    },
+    "experiments": {
+      "baseUrl": "/tomori-ready-010"
+    }
+  }
+}
